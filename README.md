@@ -18,4 +18,4 @@ The major steps of analysis are outline in [report]
 [Original data]:<https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2>
 [assignment page]:<https://www.coursera.org/learn/reproducible-research/peer/OMZ37/course-project-2>
 [documentation]:<https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf>
-[report]:./Assignment2.html
+[report]:./Assignment2.md
